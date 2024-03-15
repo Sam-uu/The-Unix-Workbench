@@ -4,7 +4,8 @@ README.md: guessinggame.sh
 	echo "# The Unix Workbench Peer-graded Assignment" > README.md
 	echo "" >> README.md
 	echo "\`\`\`" >> README.md
-	echo "This is a game where the user tries to guess the number of files in the current directory. The program  tells the user to retry the guess if their answer is higher or lower than the right number, and ends the game if the guess is correct." >> README.md
+	echo "This is a game where the user tries to guess the number of files in the current directory." >> README.md
+	echo "The program tells the user to retry the guess if their answer is higher or lower than the right number, and ends the game if the guess is correct." >> README.md
 	echo "\`\`\`" >> README.md
 	echo "" >> README.md
 	echo "\`\`\`" >> README.md
