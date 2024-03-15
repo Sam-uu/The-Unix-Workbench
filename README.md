@@ -7,10 +7,10 @@ The program tells the user to retry the guess if their answer is higher or lower
 
 ```
 **Make date:** 
-Fri Mar 15 00:37:14 +00 2024
+Fri Mar 15 00:44:03 +00 2024
 \
 **The number of lines of code contained in guessinggame.sh:** 
 20
 ```
 
-You can find the page on [github.com](https://sam-uu.github.io/The-Unix-Workbench/README.md)
+You can find the page on [github.com](https://sam-uu.github.io/The-Unix-Workbench/)
